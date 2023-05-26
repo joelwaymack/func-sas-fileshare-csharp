@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "func_sas_storage_csharp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7178",
+      "launchBrowser": false
+    }
+  }
+}
